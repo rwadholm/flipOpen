@@ -469,12 +469,11 @@ laughing.</p>
 <p>&ldquo;Their scalps are ours,&rdquo; chanted the chief;
 &ldquo;ill&ndash;rooted were their ill&ndash;fated hairs! They came off
 in the hands of the victors&mdash;without struggle, without resistance,
-they yielded their
+they yielded their scalps to the conquering Rock&ndash;dwellers! Oh, how little a thing is a
+scalp so lightly won!&rdquo;</p>
 </div>
 
 <div class="bookPage" id="p235" name="235">
-scalps to the conquering Rock&ndash;dwellers! Oh, how little a thing is a
-scalp so lightly won!&rdquo;</p>
 <p>&ldquo;They&rsquo;ll take our real ones in a minute; you see if they
 don&rsquo;t,&rdquo; said Robert, trying to rub some of the red ochre off
 his face and hands on to his hair.</p>
