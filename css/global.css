@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 12px;
+	line-height: 1.5em;
+	background: #ffffff url(../img/background.jpg) no-repeat center top;
+}
+br.clear {
+	clear: both;
+	line-height: 0em;
+	padding: 0px;
+	margin: 0px;
+	height: 0px;
+}
+#header, #footer {
+	position: relative;
+	width: 900px;
+	margin: 0px auto;
+	padding: 0px 0px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	clear: both;
+}
+#header {	
+	z-index: 999;
+}
+#footer {
+	padding; 20px 0px;
+	text-align: center;
+	color: #aaa;
+}
+a {
+	color: #069;
+}
+a:hover {
+	color: #C30;
+}
+h1 {
+	font-size: 20px;
+	padding: 4px 0px 6px 0px;
+	margin: 0px;
+	color: #bbb;
+	line-height: 1.2em;
+}
+
+h1#logo {
+	width: 300px;
+	float: left;
+}
+h1#bookTitle {
+	text-align: right;	
+}
+#player {
+	width: 452px;
+	float: right;
+}
+.subtitle {	
+	font-size: 14px;
+	color: #999;
+}
+#wrapper {
+	position: relative;
+	width: 900px;
+	margin: 0px auto;
+	height: 640px;
+	z-index: 0;
+	line-height: 1.5em;
+	font-size: 14px;
+	background: #f6f6f6 url(../img/page.png);
+}
+.bookPage{
+	position:relative;
+	float: left;
+	width:450px;
+	height:640px;           
+	background: #f6f6f6 url(../img/page.png);
+	cursor:pointer;
+	display: none;
+	overflow:hidden;
+} 
+.bookPage:first {
+	background: url(../img/covers/railwayChildren.jpg);		
+}
+.bookPage .content {
+	padding: 30px 40px 40px 40px;
+	margin: 0px;
+	width: 370px;
+	height:570px;
+	position: relative;
+}
+.bookPage h2{
+	font-size: 18px;
+	padding: 50px 0px 30px 0px;
+	margin: 0px;
+}
+.bookPage p {
+	padding: 5px 0px;
+	margin: 0px;
+	font-size: 14px;
+	text-align: justify;
+}
+.bookPage .content img {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	border: 1px solid #ccc;
+}
+#wrapper .bookPage .content pre {
+	line-height: 1.2em;
+	font-size: 14px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-left: 40px;
+}
+span.pageNumbers {
+	position: absolute;
+	bottom: 12px;
+	left: 220px;
+	font-size:10px;
+	color: #666;
+	display: block;
+	height: 10px;
+}
